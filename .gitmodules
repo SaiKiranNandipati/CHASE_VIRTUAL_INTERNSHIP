@@ -1,9 +1,6 @@
 [submodule "forage-jpmc-swe-task-1"]
 	path = forage-jpmc-swe-task-1
 	url = https://github.com/SaiKiranNandipati/forage-jpmc-swe-task-1.git
-[submodule "forage-jpmc-swe-task-2"]
-	path = forage-jpmc-swe-task-2
-	url = https://github.com/SaiKiranNandipati/forage-jpmc-swe-task-2.git
 [submodule "forage-jpmc-swe-task-3"]
 	path = forage-jpmc-swe-task-3
 	url = https://github.com/SaiKiranNandipati/forage-jpmc-swe-task-3.git
